@@ -1,0 +1,41 @@
+#mypro {
+  text-align: center;
+    background-color: lightgrey;
+    width: 300px;
+    border: 12px solid rgb(193 138 138);
+    padding: 5px 3px;
+    margin: 30px;
+  }
+  body {
+    background-image: url("6.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  background-position: center; 
+    
+    background-color: rgb(226, 247, 178);
+    
+  }
+
+  div {text-align: center;
+    /* border-style: outset; */
+}
+div.log {text-align: center;
+  color: black;
+  
+}
+div.search {text-align: left;
+  background-color: rgba(238, 255, 0, 0.76);
+  
+}
+h1 {
+color:tomato;
+}
+a:hover {
+    
+  background-color: rgb(110, 118, 233);
+}
+div.log:hover {
+    
+  background-color: rgb(255, 0, 0);
+}
